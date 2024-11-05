@@ -43,7 +43,7 @@
 #include "lwip/pbuf.h"
 
 // Default MTU for WireGuard is 1420 bytes
-#define WIREGUARDIF_MTU (1420)
+#define WIREGUARDIF_MTU (1320)
 
 #define WIREGUARDIF_DEFAULT_PORT		(51820)
 #define WIREGUARDIF_KEEPALIVE_DEFAULT	(0xFFFF)
